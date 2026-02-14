@@ -10,6 +10,6 @@ Grupo:E-196
 Materia: Arquitectura de Software
 
 Idea: 
-Aplicacion de citas para estudiantes de la uts como tinder 	
+Aplicacion de citas para estudiantes de la uts inspirada en  tinder 	
 Idioma de programacion: Flutter/ Dart
 Base de datos: Firebase
